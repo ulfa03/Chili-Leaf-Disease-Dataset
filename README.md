@@ -1,2 +1,4 @@
-# Chili-Leaf-Disease-Dataset
-Dataset ini berisi citra daun cabai (chili) yang diklasifikasikan ke dalam 5 kategori penyakit daun, dengan total 1000 gambar per kelas. Dataset ini dapat digunakan untuk penelitian dan pengembangan model deteksi penyakit daun, khususnya menggunakan metode deep learning seperti CNN.
+🌶️ Chili Leaf Disease Dataset
+📖 Deskripsi
+Chili Leaf Disease Dataset merupakan kumpulan citra daun cabai yang diklasifikasikan ke dalam 5 kategori penyakit daun. Dataset ini dirancang untuk keperluan penelitian, pengembangan model deteksi penyakit daun, serta pengujian algoritma computer vision khususnya berbasis deep learning seperti Convolutional Neural Network (CNN).
+
