@@ -2,7 +2,7 @@
 
 **Chili Leaf Disease Dataset** adalah kumpulan citra daun cabai yang diklasifikasikan ke dalam 5 kategori penyakit daun pada cabai rawit. Dataset ini dirancang untuk penelitian dan pengembangan sistem deteksi penyakit daun cabai rawit berbasis **Computer Vision** dan **Deep Learning**, khususnya menggunakan algoritma **Convolutional Neural Network (CNN)**.
 
-Dataset ini menyediakan gambar daun cabai dalam berbagai kondisi, sehingga dapat dimanfaatkan untuk membangun model klasifikasi gambar serta pengembangan aplikasi **smart farming** berbasis AI.
+Dataset ini dikumpulkan melalui kaggle dan roboflow, dataset ini menyediakan gambar daun cabai rawit dalam berbagai kondisi, sehingga dapat dimanfaatkan untuk membangun model klasifikasi gambar serta pengembangan aplikasi 
 
 ---
 
